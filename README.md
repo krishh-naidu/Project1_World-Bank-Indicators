@@ -24,9 +24,10 @@ Though success was found in data visualization, there could be more statistical 
 ## GDP vs CO₂
 ![alt text](/Images/GDPvsCO2Matplotlib.png)
 ![alt text](/Images/rvalue.png)
-![alt text](/Images/GDP_Per_Capita vsCO2Percapita.png)
+![alt text](/Images/GDP_Per_CapitavsCO2Percapita.png)
 ## Global land and ocean temperature anomalies
 ![alt text](/Images/GlobalTempoanamolies.png)
+![alt text](/Images/GlobalTempBar.png)
 ## Urbanization
 ![alt text](/Images/UrbanvsRural.png)
 ## Gmap
