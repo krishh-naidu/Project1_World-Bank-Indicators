@@ -22,8 +22,8 @@ Though success was found in data visualization, there could be more statistical 
 ## GDP
 ![alt text](/Images/GDP_Growth.jpeg)
 ## GDP vs CO₂
-![alt text](/Images/GDP_Per_Capita _vs _CO2 _Per _capita.png)
-![alt text](/Images/GDPvsCO2 Matplotlib.png)
+![alt text](/Images/GDP_Per_Capita_vs_CO2_Per_capita.png)
+![alt text](/Images/GDPvsCO2Matplotlib.png)
 ## Global land and ocean temperature anomalies
 ![alt text](/Images/GlobalTempoanamolies.png)
 ## Urbanization
