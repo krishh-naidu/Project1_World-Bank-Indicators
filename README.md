@@ -20,13 +20,15 @@ The questions we posed were:
 Though success was found in data visualization, there could be more statistical comparison between the chosen indicators. Future extensions to this project could look into economic indices like income share held by lowest 20% in order to investigate the social effects of capitalism compared to the environmental ones. Also, instead of a global scale, the data could be grouped by region or country in order to compare data more specifically. 
 
 ## GDP
-![alt text](images/GDP_Growth.png)
+![alt text](/Images/GDP_Growth.jpeg)
 ## GDP vs CO₂
-![alt text](images/GDP Per Capita vs CO2 Per capita.png)
+![alt text](/Images/GDP_Per_Capita _vs _CO2 _Per _capita.png)
+1[alt text](/Images/GDPvsCO2 Matplotlib.png)
 ## Global land and ocean temperature anomalies
-![alt text](images/Global Tempo anamolies.png)
+![alt text](/Images/GlobalTempoanamolies.png)
 ## Urbanization
-![alt text](images/Urban vs Rural.png)
-
+![alt text](/Images/UrbanvsRural.png)
+## Gmap
+![alt text](/Images/GMAP.jpeg)
 
 Overall, the data suggest a strong correlation (r=.81) between GDP and CO₂ per capita, which also appear to directly correlate with global temperature and urbanization visually.
